@@ -12,13 +12,7 @@ echo "Press any button to continue"; read -n 1 my_welcome_continue
 	else
 	  echo ""
 	fi
-
-
-#Clear & go to dir
 clear
-cd
-cd Desktop/Tools/
-
 #Getting all the user input
  #IP
   echo "Enter IP you want to attack:"
